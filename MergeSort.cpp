@@ -1,4 +1,5 @@
 // using recursion 
+// Divide & Conquer Approach
 #include<bits/stdc++.h>
 using namespace std;
 
